@@ -1,2 +1,3 @@
-Modular Brushset V4 created for Krita 2.8
-=========================================
+Modular Brushset V4
+===================
+Created for Krita 2.8
