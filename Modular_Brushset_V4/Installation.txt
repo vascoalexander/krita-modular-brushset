@@ -1,0 +1,23 @@
+Installation:
+=============
+
+
+1. Remove older Versions of the Modular Brushset before installing V4.
+2. Copy the resource folders (brushes/paintoppresets) into your user directory of Krita.
+
+
+The EXTRA folder contains Presets for showing categroy Numbers (1,2,3) and Presets, 
+that are adjusted for Tablets without a Tilt Sensor (or for users that prefer not to use Tilt).
+
+
+Default installation path of the Krita folder:
+__________________________________________________________
+
+Linux: /home/username/.kde/share/apps/krita
+Windows: C:\Users\username\AppData\Roaming\.kde\share\apps
+
+
+
+Note: You should remove the older Versions before installing V4. 
+Remember to cleanup old Files (Menü - Edit - Resources - Cleanup removed Files) 
+and eventually clear the paintoppresets blacklist.

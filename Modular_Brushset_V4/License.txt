@@ -1,0 +1,80 @@
+License:
+
+Krita Modular Brushset v4.0 by Vasco Alexander Basqué is licensed under a Creative Commons Attribution 3.0 Unported License.
+
+Don´ t worry about license rights or Attribution as long as you use this set for painting! 
+
+If you want to redistribute this work or repackage it e.g. to create an own brushset you can do this, 
+but you should take care of the resources i have included in this work. All what is NOT listed below 
+is created by me and you can do with it whatever you want! (most of my brushes are already released to public domain/cc-0)
+
+
+
+Attribution and License Notes of used Resources:
+________________________________________________
+
+Patterns:
+
+Patterns by Enrico Guarnieri, aka Ico-dY http://www.turnangel.com/
+Released under Creative Commons Attribution-Share Alike 3.0 Unported License.
+Applies for the following Pattern/png files:
+
+- Interference.png.pat
+- Paliasse.png.pat
+- ScratchedCanvas.png.pat
+- SoftSponge.png.pat
+- Disclosure.png.pat
+- SpiderHome.png.pat
+- ToxicForest.png.pat
+- RicePaper.png.pat
+
+ 
+================================================================================================================
+
+Brushes:
+
+Some Brushes are taken from the "Essential Illustration Brushes V3 Exteneded" by Matthew M. Laskowski
+
+http://fox-orian.deviantart.com/art/Essential-Illustration-Brushes-V3-Extended-117211736
+
+"A NOTE ABOUT USAGE RIGHTS AND CREDITATION:
+First, don't worry about it, and second, don't worry about it.
+These brushes are just tools. They are not copyrighted or infringe-able. What you create with them becomes copyrighted only to yourself. This is wholly free. You do not need to credit me. You can feel free to link people to these brushes if you want, but don't feel obligated to credit me as the provider to make your work possible. I was not responsible, you and your skill is responsible.
+Think of it this way: would you write a note to Utrect, Steadtler, Faber-Castell etc to ask if it's OK to use their line of pencils, pens, and markers to make your art? No, you wouldn't, and this brush set is no different. Have fun, and create!"
+
+Applies for the following Brushes/.gbr files:
+
+Grunge012.gbr
+Grunge024.gbr
+Illustration_004.gbr
+Illustration_005.gbr
+Illustration_018.gbr
+Illustration_026.gbr
+Illustration_028.gbr
+Illustration_029.gbr
+
+Also included are 2 Brushes by Sam Hutchison http://ljfhutch.deviantart.com/
+Released under Attribution 3.0 Unported (CC BY 3.0)
+
+Applies for the following Brushes/.gbr files:
+
+LJF_Foliage_Branches_Brush_01.gih
+LJF_Foliage_Brush_02.gih
+
+
+================================================================================================================
+
+Brushicons:
+
+Note: All Icons used are modified by me. The Originals are taken from the following Sources:
+
+"Mypaint V6 Brushpack" by David Revoy http://deevad.deviantart.com/art/Mypaint-V6-Brushkit-335059175
+This brush kit is released in public domain/CC-0
+
+Official Brush Previews/Icons http://community.kde.org/Krita/Brushes_Preset_Preview
+Released under Creative Commons License SA 3.0
+
+"Inking brushes 1.2" by Wolthera van Hövell tot Westerflier
+http://wolthera.info/?p=589
+Released under CC-0 License.
+
