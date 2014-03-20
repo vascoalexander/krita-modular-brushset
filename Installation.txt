@@ -1,0 +1,8 @@
+Installation:
+
+Default installation path of the Krita folder:
+
+Linux: /home/username/.kde/share/apps/krita
+Windows: C:\Users\username\AppData\Roaming\.kde\share\apps
+
+Note: You should remove the older Versions before installing V3. Remember to cleanup old Files (Menü - Edit - Resources - Cleanup removed Files) and eventually clear the paintoppresets blacklist (some brush names have changed)
