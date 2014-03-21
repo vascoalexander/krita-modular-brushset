@@ -1,5 +1,7 @@
 # Modular Brushset V4
 
+![Modular Brushset V4 Cover](https://github.com/vascoalexander/krita-modular-brushset/blob/master/cover.png?raw=true 'Modular Brushset V4')
+
 Created for Krita 2.8
 
 ## Introduction
